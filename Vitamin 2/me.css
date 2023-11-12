@@ -1,0 +1,41 @@
+title {
+ color: red;
+}
+  
+html {
+    font-family: "Comic Sans MS", "Comic Sans", Arial, sans-serif;
+  }
+h1 {
+  font-family: "Papyrus";  
+  color: purple;
+}
+h2 {
+    font-family: "Papyrus";  
+    color: purple;
+  }
+ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+    border: 0;
+  }
+  li {
+    display: inline-block;
+    padding: 16px;
+    background-color: grey;
+    color:black
+  }
+  a:link    {color:#000;}  /* unvisited link  */
+  a:visited {color:#000;}  /* visited link    */
+  a:hover   {background-color:#AAA; padding: 16px;}  /* mouse over link */
+  a:active  {color:#000;}  /* selected link   */ 
+
+  footer {
+    text-align: center;
+    background-color: #DDD;
+    color: #555;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+  }
